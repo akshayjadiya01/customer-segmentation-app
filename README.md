@@ -45,5 +45,6 @@ streamlit run app.py
 | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | [Mall_Customers.csv](https://github.com/user-attachments/files/20952992/Mall_Customers.csv)| ![Screenshot 2025-06-27 222911](https://github.com/user-attachments/assets/58a7652d-a667-41b7-8464-18bb99b0d30b)|
 
-**👤 Author **
-Akshay Jadiya
+##👤 Author
+
+** Akshay Jadiya **
