@@ -50,7 +50,8 @@ streamlit run app.py
 
 **Akshay Jadiya**  
 💼 Aspiring Data Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/in/akshay-jadiya-88b663259/) 
+🔗 [LinkedIn](https://www.linkedin.com/in/akshay-jadiya-88b663259/)
+
 🔗 [GitHub](https://github.com/akshayjadiya01)
 
 ---
