@@ -44,3 +44,12 @@ streamlit run app.py
 | Upload CSV                                                         | Visualize Clusters                                                      |
 | ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
 | [Mall_Customers.csv](https://github.com/user-attachments/files/20952992/Mall_Customers.csv)| ![Screenshot 2025-06-27 222911](https://github.com/user-attachments/assets/58a7652d-a667-41b7-8464-18bb99b0d30b)|
+
+**👤 Author **
+Akshay Jadiya
+💼 Aspiring Data Analyst
+📍 BTech in AI & ML (6th Sem Completed)
+💡 Skills: Python, Power BI, Excel, SQL
+🔗 LinkedIn
+🔗 https://github.com/akshayjadiya01
+
