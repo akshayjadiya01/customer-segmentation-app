@@ -46,7 +46,24 @@ streamlit run app.py
 | [Mall_Customers.csv](https://github.com/user-attachments/files/20952992/Mall_Customers.csv)| ![Screenshot 2025-06-27 222911](https://github.com/user-attachments/assets/58a7652d-a667-41b7-8464-18bb99b0d30b)|
 ---
 
-##👤 Author
+## 👤 Author
 
-** Akshay Jadiya **
+**Akshay Jadiya**  
+💼 Aspiring Data Analyst  
+📍 BTech in AI & ML (6th Sem Completed)  
+💡 Skills: Python, Power BI, Excel, SQL  
+🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🔗 [GitHub](https://github.com/akshayjadiya01)
+
+---
+
+## ⭐ Show Your Support
+
+If you found this project useful:
+
+- 🌟 **Star** this repository
+- 🍴 **Fork** it to your own GitHub
+- 📝 **Share it on LinkedIn** or with friends
+- 💬 Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/yourprofile)
+
 ---
