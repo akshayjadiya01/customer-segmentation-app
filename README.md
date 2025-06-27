@@ -31,7 +31,7 @@ Contains 200 mall customers with these features:
 
 ```bash
 # Clone this repository
-git clone https://github.com/yourusername/customer-segmentation-app.git
+git clone https://github.com/akshayjadiya01/customer-segmentation-app.git
 cd customer-segmentation-app
 
 # Install dependencies
