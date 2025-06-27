@@ -39,3 +39,10 @@ pip install streamlit pandas seaborn matplotlib scikit-learn
 
 # Run the app
 streamlit run app.py
+```bash
+
+
+## 📸 App Preview
+| Upload CSV                                                         | Visualize Clusters                                                      |
+| ------------------------------------------------------------------ | ----------------------------------------------------------------------- |
+| ![Upload CSV](https://via.placeholder.com/400x200?text=Upload+CSV) | ![Clusters](https://via.placeholder.com/400x200?text=Customer+Clusters) |
