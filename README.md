@@ -47,9 +47,3 @@ streamlit run app.py
 
 **👤 Author **
 Akshay Jadiya
-💼 Aspiring Data Analyst
-📍 BTech in AI & ML (6th Sem Completed)
-💡 Skills: Python, Power BI, Excel, SQL
-🔗 LinkedIn
-🔗 https://github.com/akshayjadiya01
-
