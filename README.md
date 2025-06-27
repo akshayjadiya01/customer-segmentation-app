@@ -39,7 +39,7 @@ pip install streamlit pandas seaborn matplotlib scikit-learn
 
 # Run the app
 streamlit run app.py
-```bash
+```
 
 
 ## 📸 App Preview
