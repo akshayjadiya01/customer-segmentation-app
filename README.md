@@ -50,9 +50,7 @@ streamlit run app.py
 
 **Akshay Jadiya**  
 💼 Aspiring Data Analyst  
-📍 BTech in AI & ML (6th Sem Completed)  
-💡 Skills: Python, Power BI, Excel, SQL  
-🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/akshay-jadiya-88b663259/))  
 🔗 [GitHub](https://github.com/akshayjadiya01)
 
 ---
@@ -64,6 +62,6 @@ If you found this project useful:
 - 🌟 **Star** this repository
 - 🍴 **Fork** it to your own GitHub
 - 📝 **Share it on LinkedIn** or with friends
-- 💬 Feel free to [connect with me on LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💬 Feel free to [connect with me on LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/akshay-jadiya-88b663259/))
 
 ---
